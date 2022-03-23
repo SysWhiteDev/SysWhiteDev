@@ -4,13 +4,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syswhitedev&label=Profile%20views&color=0e75b6&style=flat" alt="syswhitedev" /> </p>
 
 
-- 🔭 I’m currently working on **A minigames bot based on discord.js**
+- 🔭 I’m currently working on: **a minigames bot based on discord.js**
 
-- 🌱 I’m currently learning **discord.js, C#, node.js**
+- 🌱 I’m currently learning: **C#, node.js**
 
-- 📫 How to reach me **micsimfrayt@gmail.com**
+- 📫 my e-mail: **micsimfrayt@gmail.com**
 
-- ⚡ Fun fact **I learned to code from youtube**
+- ⚡ Fun fact :**I learned to code from youtube**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
