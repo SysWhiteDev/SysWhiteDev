@@ -1,6 +1,3 @@
-### I am still writing this...
+### Hi! i am SysWhite and i'm a young developer!
 
-<!---
-SysWhiteDev/SysWhiteDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## I code in: node.js, python and javascript
