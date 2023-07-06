@@ -1,6 +1,6 @@
 [![MasterHead](https://i.imgur.com/zoWCWJ8.png)](https://github.com/syswhitedev)
 <h1 align="center">Hi 👋, I'm SysWhite</h1>
-<h3 align="center">A 14 years old developer</h3>
+<h3 align="center">A 14 year old developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syswhitedev&label=Profile%20views&color=0e75b6&style=flat-square" alt="syswhitedev" /> </p>
 
