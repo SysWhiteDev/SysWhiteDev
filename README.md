@@ -21,8 +21,8 @@ My skills include:
 
 Here are some of my recent projects:
 
+- [EyeHide](https://github.com/eyehide/): The project that aims to bring simplified privacy out to the world
 - [ACS Dashboard Challenge](https://github.com/SysWhiteDev/ACS-Challenge-2023): Dashboard for monitoring and analyzing automotive emissions data over time for ACS Data Systems S.p.A.
-- [bancho.html](https://github.com/SysWhiteDev/bancho.html): A wip frontend for the notourious bancho.py backend.
 - [TrashTracer](https://github.com/SysWhiteDev/NoiHackathon2022): Our winning solution to one of the challenges presented at the Noi Hackathon 2022.
 
 ## Get in Touch
