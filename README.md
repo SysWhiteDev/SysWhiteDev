@@ -11,11 +11,13 @@
 
 My skills include:
 
-- ✨ Front-end Development: Crafting responsive, pixel-perfect websites using various frontend/fullstack technologies.
-- 🎨 UI/UX Design: Creating visually appealing, intuitive user interfaces.
-- 🚀 Web Optimization: Enhancing website performance for seamless user experiences.
-- 💡 Problem-Solving: Tackling complex challenges with creativity and innovation.
-- 🤝 Collaboration: Working effectively in cross-functional teams.
+- ✨ **Front-end Development:** Crafting responsive, pixel-perfect websites using various frontend/fullstack technologies.
+- 🎨 **UI/UX Design:** Creating visually appealing, intuitive user interfaces.
+- 💻 **Backend Development:** Building robust server-side applications, designing databases, and ensuring the smooth functioning of web applications, including DevOps practices, server maintenance, and use of Kubernetes.
+- 🚀 **Web Optimization:** Enhancing website performance for seamless user experiences.
+- 🖥️ **OS Development:** Understanding and contributing to the development of operating systems, currently developing HideOS for [EyeHide](https://eyehide.org/).
+- 💡 **Problem-Solving:** Tackling complex challenges with creativity and innovation.
+- 🤝 **Collaboration:** Working effectively in cross-functional teams.
 
 ## My Work
 
