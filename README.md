@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/SysWhiteDev/SysWhiteDev/assets/76256827/272b2eb9-41a5-4cda-bd50-0a252c83f275)](https://github.com/syswhitedev)
+[![MasterHead](https://i.imgur.com/j1JkRNm.png)](https://github.com/syswhitedev)
 # Hi, I'm SysWhite 👋
 
 🚀 I'm SysWhite, and I'm enthusiastic about all things web development and design.
